@@ -1,6 +1,11 @@
-## [Unreleased] - 2021-04-20
+## [Unreleased] - 2021-05-05
 
 ### Changed
+- [#4](https://github.com/flow-php/etl-loader/pull/4) - **infection/infection from 0.21.5 to 0.22.0 in /tools** - [@dependabot[bot]](https://github.com/apps/dependabot)
+- [#5](https://github.com/flow-php/etl-loader/pull/5) - **phpstan/phpstan from 0.12.84 to 0.12.85 in /tools** - [@dependabot[bot]](https://github.com/apps/dependabot)
+- [#6](https://github.com/flow-php/etl-loader/pull/6) - **vimeo/psalm from 4.7.0 to 4.7.2 in /tools** - [@dependabot[bot]](https://github.com/apps/dependabot)
+- [#7](https://github.com/flow-php/etl-loader/pull/7) - **friendsofphp/php-cs-fixer from 2.18.6 to 2.19.0 in /tools** - [@dependabot[bot]](https://github.com/apps/dependabot)
+- [e6080f](https://github.com/flow-php/etl-loader/commit/e6080f0edef6e7412d627fb896bbed1b6f498581) - **CHANGELOG.md** - [@aeon-automation](https://github.com/aeon-automation)
 - [#1](https://github.com/flow-php/etl-loader/pull/1) - **friendsofphp/php-cs-fixer from 2.18.5 to 2.18.6 in /tools** - [@dependabot[bot]](https://github.com/apps/dependabot)
 - [0b695f](https://github.com/flow-php/etl-loader/commit/0b695f5e848a1a6e3db9119536a7ca5202a40df3) - **CHANGELOG.md** - [@aeon-automation](https://github.com/aeon-automation)
 - [#2](https://github.com/flow-php/etl-loader/pull/2) - **phpstan/phpstan from 0.12.83 to 0.12.84 in /tools** - [@dependabot[bot]](https://github.com/apps/dependabot)
