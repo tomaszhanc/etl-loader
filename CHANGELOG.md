@@ -1,6 +1,7 @@
 ## [Unreleased] - 2021-06-26
 
 ### Changed
+- [6cca85](https://github.com/flow-php/etl-loader/commit/6cca85ba4bead3025bf2d971d3084f0bbb3d29de) - **CHANGELOG.md** - [@aeon-automation](https://github.com/aeon-automation)
 - [#17](https://github.com/flow-php/etl-loader/pull/17) - **phpstan/phpstan from 0.12.87 to 0.12.90 in /tools** - [@dependabot[bot]](https://github.com/apps/dependabot)
 - [dc5b43](https://github.com/flow-php/etl-loader/commit/dc5b436a2bba8f57d81aa094dabf760455173e45) - **CHANGELOG.md** - [@aeon-automation](https://github.com/aeon-automation)
 - [#18](https://github.com/flow-php/etl-loader/pull/18) - **vimeo/psalm from 4.7.2 to 4.8.1 in /tools** - [@dependabot[bot]](https://github.com/apps/dependabot)
