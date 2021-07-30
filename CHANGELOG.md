@@ -1,6 +1,8 @@
-## [Unreleased] - 2021-07-21
+## [Unreleased] - 2021-07-30
 
 ### Changed
+- [#25](https://github.com/flow-php/etl-loader/pull/25) - **infection/infection from 0.23.0 to 0.24.0 in /tools** - [@dependabot[bot]](https://github.com/apps/dependabot)
+- [a20dab](https://github.com/flow-php/etl-loader/commit/a20dabb26551a47caea2ebda4ac2db7513ef949c) - **CHANGELOG.md** - [@aeon-automation](https://github.com/aeon-automation)
 - [#24](https://github.com/flow-php/etl-loader/pull/24) - **phpstan/phpstan from 0.12.92 to 0.12.93 in /tools** - [@dependabot[bot]](https://github.com/apps/dependabot)
 - [0393ab](https://github.com/flow-php/etl-loader/commit/0393ab646b6c049be84bb2e69444179d49e72c72) - **CHANGELOG.md** - [@aeon-automation](https://github.com/aeon-automation)
 - [#22](https://github.com/flow-php/etl-loader/pull/22) - **phpstan/phpstan from 0.12.91 to 0.12.92 in /tools** - [@dependabot[bot]](https://github.com/apps/dependabot)
