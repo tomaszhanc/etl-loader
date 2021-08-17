@@ -1,6 +1,8 @@
-## [Unreleased] - 2021-07-30
+## [Unreleased] - 2021-08-17
 
 ### Changed
+- [#31](https://github.com/flow-php/etl-loader/pull/31) - **vimeo/psalm from 4.8.1 to 4.9.3 in /tools** - [@dependabot[bot]](https://github.com/apps/dependabot)
+- [f51f94](https://github.com/flow-php/etl-loader/commit/f51f94996b98193c980d02ab4890efb060afa30a) - **CHANGELOG.md** - [@aeon-automation](https://github.com/aeon-automation)
 - [#23](https://github.com/flow-php/etl-loader/pull/23) - **phpunit/phpunit from 9.5.6 to 9.5.7 in /tools** - [@dependabot[bot]](https://github.com/apps/dependabot)
 - [d21846](https://github.com/flow-php/etl-loader/commit/d2184695b382766ee113cb8aa6dbb8129e8ed7ab) - **CHANGELOG.md** - [@aeon-automation](https://github.com/aeon-automation)
 - [#25](https://github.com/flow-php/etl-loader/pull/25) - **infection/infection from 0.23.0 to 0.24.0 in /tools** - [@dependabot[bot]](https://github.com/apps/dependabot)
