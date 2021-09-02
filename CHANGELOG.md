@@ -1,6 +1,8 @@
 ## [Unreleased] - 2021-09-02
 
 ### Changed
+- [#34](https://github.com/flow-php/etl-loader/pull/34) - **phpunit/phpunit from 9.5.8 to 9.5.9 in /tools** - [@dependabot[bot]](https://github.com/apps/dependabot)
+- [0eb462](https://github.com/flow-php/etl-loader/commit/0eb462d8498ac820eacd6b5eb9f045354e865283) - **CHANGELOG.md** - [@aeon-automation](https://github.com/aeon-automation)
 - [#35](https://github.com/flow-php/etl-loader/pull/35) - **phpstan/phpstan from 0.12.96 to 0.12.97 in /tools** - [@dependabot[bot]](https://github.com/apps/dependabot)
 - [c3d081](https://github.com/flow-php/etl-loader/commit/c3d081591a7eb9eb4bbeab010cc0106cc57eb186) - **CHANGELOG.md** - [@aeon-automation](https://github.com/aeon-automation)
 - [#32](https://github.com/flow-php/etl-loader/pull/32) - **phpstan/phpstan from 0.12.94 to 0.12.96 in /tools** - [@dependabot[bot]](https://github.com/apps/dependabot)
