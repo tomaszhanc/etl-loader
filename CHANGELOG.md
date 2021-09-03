@@ -1,6 +1,8 @@
-## [Unreleased] - 2021-09-02
+## [Unreleased] - 2021-09-03
 
 ### Changed
+- [#33](https://github.com/flow-php/etl-loader/pull/33) - **friendsofphp/php-cs-fixer from 2.19.0 to 3.1.0 in /tools** - [@dependabot[bot]](https://github.com/apps/dependabot)
+- [ef5520](https://github.com/flow-php/etl-loader/commit/ef5520bc54e28be201b90d5890ae33dc260967ee) - **CHANGELOG.md** - [@aeon-automation](https://github.com/aeon-automation)
 - [#34](https://github.com/flow-php/etl-loader/pull/34) - **phpunit/phpunit from 9.5.8 to 9.5.9 in /tools** - [@dependabot[bot]](https://github.com/apps/dependabot)
 - [0eb462](https://github.com/flow-php/etl-loader/commit/0eb462d8498ac820eacd6b5eb9f045354e865283) - **CHANGELOG.md** - [@aeon-automation](https://github.com/aeon-automation)
 - [#35](https://github.com/flow-php/etl-loader/pull/35) - **phpstan/phpstan from 0.12.96 to 0.12.97 in /tools** - [@dependabot[bot]](https://github.com/apps/dependabot)
