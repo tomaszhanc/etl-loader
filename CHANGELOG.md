@@ -1,6 +1,7 @@
 ## [Unreleased] - 2021-09-04
 
 ### Changed
+- [f18a2d](https://github.com/flow-php/etl-loader/commit/f18a2da03013d3217eec0687372088f8dad020a1) - **CHANGELOG.md** - [@aeon-automation](https://github.com/aeon-automation)
 - [#36](https://github.com/flow-php/etl-loader/pull/36) - **phpstan/phpstan from 0.12.97 to 0.12.98 in /tools** - [@dependabot[bot]](https://github.com/apps/dependabot)
 - [#37](https://github.com/flow-php/etl-loader/pull/37) - **Remove unsued PHP-CS config** - [@tomaszhanc](https://github.com/tomaszhanc)
 - [adba67](https://github.com/flow-php/etl-loader/commit/adba678425c586f1228a3b5a4947a79dd263f718) - **CHANGELOG.md** - [@aeon-automation](https://github.com/aeon-automation)
